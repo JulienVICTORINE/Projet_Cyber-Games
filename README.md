@@ -2,8 +2,8 @@
 Description du projet : Créer un outils de gestion qui permet à un cybercafé de gérer leurs postes informatiques
 
 # Equipe-projet
-LOUISE Johan : Chef de projet
-SINEDIA Mathieu : Web Designer
+LOUISE Johan : Chef de projet,
+SINEDIA Mathieu : Web Designer,
 VICTORINE Julien : Graphiste
 
 # Répartition des tâches
@@ -14,9 +14,9 @@ Nous avons pour but de réaliser les pages suivantes :
 - Un tableau de bord (Dashboard)
 - Ajouter une réservation pour un poste informatique disponible
 
-LOUISE -> Tableau de bord
-SINEDIA -> Page de connexion
-VICTORINE -> Ajout_reservation
+LOUISE Johan -> Tableau de bord
+SINEDIA Mathieu -> Page de connexion
+VICTORINE Julien -> Ajout_reservation
 
 # Résumé
 Sur la page de connexion, l'utilisateur devra saisir ses identifiants afin de pouvoir permettre l'affichage qui le mènera vers le taleau de bord.
