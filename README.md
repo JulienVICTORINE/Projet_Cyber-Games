@@ -14,6 +14,7 @@ Nous avons pour but de réaliser les pages suivantes :
 - Un tableau de bord (Dashboard)
 - Ajouter une réservation pour un poste informatique disponible
 
+
 - LOUISE Johan -> Tableau de bord
 - SINEDIA Mathieu -> Page de connexion
 - VICTORINE Julien -> Ajout_reservation
