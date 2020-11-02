@@ -2,9 +2,9 @@
 Description du projet : Créer un outils de gestion qui permet à un cybercafé de gérer leurs postes informatiques
 
 # Equipe-projet
-LOUISE Johan : Chef de projet,
-SINEDIA Mathieu : Web Designer,
-VICTORINE Julien : Graphiste
+- LOUISE Johan : Chef de projet,
+- SINEDIA Mathieu : Web Designer,
+- VICTORINE Julien : Graphiste
 
 # Répartition des tâches
 Chacun devait tout d'abord maquetter son interface avant de pouvoir le développer sous un éditeur de logiciel. 
