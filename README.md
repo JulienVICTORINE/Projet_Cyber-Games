@@ -31,7 +31,7 @@ Pour ajouter une réservation, l'utilisateur saisi son nom, son prénom, le jour
 On devra afficher une fonction qui permet d'afficher l'heure actuelle en utilisant le langage JavaScript
 
 # La charte graphique
-Couleurs : Bleu, Vert, Rouge
+Couleurs : Bleu, Vert, Rouge, Noir
 
 # Outils utilisés
 - Framework : Bootstrap 3
