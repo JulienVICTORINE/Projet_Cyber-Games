@@ -33,12 +33,12 @@ On devra afficher une fonction qui permet d'afficher l'heure actuelle en utilisa
 Couleurs : Bleu, Vert, Rouge, Noir
 
 # Outils utilisés
-- Framework : Bootstrap 3
-- Langages utilisés : HTML5, CSS3
-- Internet : Google Chrome
+- Framework : Bootstrap
+- Technologies : HTML, CSS
+- Navigateur web : Google Chrome
 - Editeur de logiciel : Visual Studio Code
 - Versioning : GitHub
-- Suivi du projet : Trello
+- Gestion de projet : Trello
 
 # Nos maquettes
 
