@@ -3,7 +3,6 @@ Description du projet : Créer un outils de gestion qui permet à un cybercafé 
 
 # Equipe-projet
 - LOUISE Johan : Chef de projet,
-- SINEDIA Mathieu : Web Designer,
 - VICTORINE Julien : Graphiste
 
 # Répartition des tâches
@@ -15,8 +14,7 @@ Nous avons pour but de réaliser les pages suivantes :
 - Ajouter une réservation pour un poste informatique disponible
 
 
-- LOUISE Johan -> Tableau de bord
-- SINEDIA Mathieu -> Page de connexion
+- LOUISE Johan -> Tableau de bord, Page de connexion
 - VICTORINE Julien -> Ajout_reservation
 
 # Résumé
